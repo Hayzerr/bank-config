@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the Bank accounts related prod APIs"
+  contactDetails:
+    name: "Bolashak - production"
+    email: "bolashak040206@mail.ru"
+  onCallSupport:
+    - 8(700) 123-45-67
+    - 8(701) 123-45-67

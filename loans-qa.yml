@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to the Bank accounts related QA APIs"
+  contactDetails:
+    name: "Bolashak - QA"
+    email: "bolashak040206@mail.ru"
+  onCallSupport:
+    - 8(700) 123-45-67
+    - 8(701) 123-45-67
